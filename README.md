@@ -28,7 +28,7 @@
     -   설명
         -   ..
 
--   WhoWho Service 통계 프로젝트
+-   [WhoWho 서비스](https://www.whowhocorp.com/ko/) 통계 외주 프로젝트 
     -   기술 스택 : FreeMarker + springboot + SpringBatch + Aws s3 + QueryDSL + Mysql 
     -   기간 : 2021.02 ~ 2021.04 ( - ING )
     -   참여인원 : 1명

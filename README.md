@@ -1,0 +1,2 @@
+# MINYUL_RESUME
+이력서

@@ -8,9 +8,9 @@
 
 ## 학력 & 경력 사항
 
-- (14.03 - 20.08) [MYONGJI University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) - Computer Engineering
-- (20.07 - 20.09) [Megazone_Pentacle](https://www.pentacle.co.kr/#MAIN) - Web Developer Intern
-- (20.12 -  ~ING) [ZUMinternet](https://zum.com/) - Web Developer 
+- (14.03 - 20.08) [명지대학교](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) - 컴퓨터공학과
+- (20.07 - 20.09) [메가존 - 펜타클](https://www.pentacle.co.kr/#MAIN) - 웹 개발자 인턴
+- (20.12 -  ~ING) [ZUMinternet](https://zum.com/) - 웹 개발자 
 
 ## 기술 스택
 

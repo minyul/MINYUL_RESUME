@@ -35,6 +35,9 @@
     -   설명
         -   ..
 
+
+  - 프로젝트 얻은 것 : [Cluster Index vs Non-Cluster Index 이론 및 성능 비교](https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL) 
+             : [Mysql Query Between 과 >=, <= 성능 차이 비교 ( 더미데이터 50만 )](https://velog.io/@minyul/Mysql-Query-Between-%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B0%A8%EC%9D%B4-%EB%B9%84%EA%B5%90-%EB%8D%94%EB%AF%B8%EB%8D%B0%EC%9D%B4%ED%84%B0-50%EB%A7%8C)
 -   블라인드웹 [신입사원 프로젝트]
     -   기술 스택 : vue + vuetify + springboot + JPA +mysql + Aws s3 
     -   기간 :4주 
@@ -45,9 +48,8 @@
              외부로 통신 하는 부분은 트랜잭션에서 제외하고 s3에 등록 후에 트랜잭션을 다시 걸어주는 부분이 가장 기억이 남는 부분이다.(Real Mysql) <br>
              또한, 암호화를 해주는 주체가 외부 클래스로 static 메소드로 암호화를 시켰다면, 좀 더 나아가 User에 암호화를 시키라는 메세지를 주며 주체적으로 
              User가 암호화를 하게끔 리팩토링한 것이 가장 기억이 남는다. <br>
-         
         
-    - 관련 주소 : [트랜잭션 공부 주소](https://blog.naver.com/ggomjae/222226571659) 
+    - 프로젝트 얻은 것 : [트랜잭션 공부 주소](https://blog.naver.com/ggomjae/222226571659) 
 ---
 ### Megazone - Pentacle   :  2020.07 ~ 2020.09
 ---
@@ -59,7 +61,8 @@
             2주 : React + Node + MariaDB（Docker）<br>
             3주 : Node + Sequelize + Mysql（Docker） + GraphQL <br>
             5주 : TypeScript + Node + TypeORM + TypeGraphQL + Mysql（Docker）<br>
-    - 관련 주소 : [이전 GITHUB 주소](https://github.com/ggomjae/careerdirection2)
+            
+    - 프로젝트 얻은 것 : [이전 GITHUB 주소](https://github.com/ggomjae/careerdirection2)
 ---
 
 ### 그 외

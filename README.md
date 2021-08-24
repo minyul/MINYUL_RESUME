@@ -36,8 +36,11 @@
         -   ..
 
 
-  - 프로젝트 얻은 것 : [Cluster Index vs Non-Cluster Index 이론 및 성능 비교](https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL) 
-             : [Mysql Query Between 과 >=, <= 성능 차이 비교 ( 더미데이터 50만 )](https://velog.io/@minyul/Mysql-Query-Between-%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B0%A8%EC%9D%B4-%EB%B9%84%EA%B5%90-%EB%8D%94%EB%AF%B8%EB%8D%B0%EC%9D%B4%ED%84%B0-50%EB%A7%8C)
+  - 프로젝트 얻은 것 : 
+  - [Cluster Index vs Non-Cluster Index 이론 및 성능 비교](https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL) 
+  - [Mysql Query Between 과 >=, <= 성능 차이 비교 ( 더미데이터 50만 )](https://velog.io/@minyul/Mysql-Query-Between-%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B0%A8%EC%9D%B4-%EB%B9%84%EA%B5%90-%EB%8D%94%EB%AF%B8%EB%8D%B0%EC%9D%B4%ED%84%B0-50%EB%A7%8C)
+
+
 -   블라인드웹 [신입사원 프로젝트]
     -   기술 스택 : vue + vuetify + springboot + JPA +mysql + Aws s3 
     -   기간 :4주 

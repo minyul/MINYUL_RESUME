@@ -33,10 +33,9 @@
     -   기간 : 2021.02 ~ 2021.04 ( - ING )
     -   참여인원 : 1명
     -   설명
-        -   ..
+        -   룰라라라라라라라라라 ( 쓸예정 )
 
-
-  - 프로젝트 얻은 것 :  1.[Cluster Index 성능 공부](https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL) , 2.[Between 과 >=, <= 성능 공부](https://velog.io/@minyul/Mysql-Query-Between-%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B0%A8%EC%9D%B4-%EB%B9%84%EA%B5%90-%EB%8D%94%EB%AF%B8%EB%8D%B0%EC%9D%B4%ED%84%B0-50%EB%A7%8C)
+    - 프로젝트 얻은 것 :  1.[Cluster Index 성능 공부](https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL) , 2.[Between 과 >=, <= 성능 공부](https://velog.io/@minyul/Mysql-Query-Between-%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B0%A8%EC%9D%B4-%EB%B9%84%EA%B5%90-%EB%8D%94%EB%AF%B8%EB%8D%B0%EC%9D%B4%ED%84%B0-50%EB%A7%8C)
 
 
 

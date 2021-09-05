@@ -23,14 +23,14 @@
 ---
 -   ZUM 금융 CMS 프로젝트
     -   기술 스택 : Vue 3 + Element Ui + Springboot + Jooq + Aws s3 + Mysql 
-    -   기간 : 2021.06 ~ ING 
+    -   기간 : **2021.06 ~ ING** 
     -   참여인원 : 1명
     -   설명
         -   ..
 
 -   [WhoWho 서비스](https://www.whowhocorp.com/ko/) 통계 외주 프로젝트 
     -   기술 스택 : FreeMarker + springboot + Quartz +SpringBatch + Aws s3 + QueryDSL + Mysql 
-    -   기간 : 2021.02 ~ 2021.04 ( - ING )
+    -   기간 : **2021.02 ~ 2021.04 ( - ING )**
     -   참여인원 : 1명
     -   설명
         -   갤럭시 whowho 서비스 관리자 통계 서비스를 구현. Aws S3 에 .gz으로 수집되어 있는 사용자의 정보를 읽어드리고 Spring Batch를 이용하여 통계를 내었다.
@@ -45,7 +45,7 @@
 
 -   블라인드웹 [신입사원 프로젝트]
     -   기술 스택 : vue + vuetify + springboot + JPA +mysql + Aws s3 
-    -   기간 :4주 
+    -   기간 : **2021.1 ~ 2021.01** 
     -   참여인원 : 1명
     -   설명
         -    블라인드 앱을 보고 익명성이 있는 블라인드 웹을 만드는 수습기간의 프로젝트 <br>
@@ -66,6 +66,9 @@
             2주 : React + Node + MariaDB（Docker）<br>
             3주 : Node + Sequelize + Mysql（Docker） + GraphQL <br>
             5주 : TypeScript + Node + TypeORM + TypeGraphQL + Mysql（Docker）<br>
+            인턴 기간 동안 처음 접해본 Express, graphQL, TypeGraphQL 등등 단기간에 여러 기술들을 접하는 경험을 했습니다. 인턴 기간 동안에 주마다 코드리뷰를 받았으며
+            코드의 질보다도 얼마나 빠르게 새로운 기술에 적응할 수 있는지를 보았던 것 같습니다. 간단한 CRUD 임에도 불구하고 새로운 기술의 적용이었기 때문에 굉장히 힘든 경험이었고
+            이 경험을 통해 배운 것은 **1. 우선은 책을 피는 것이 아닌 적용부터해보자 **  **2. 복잡하게 생각할 필요가 없다. 간단하게 생각해보자.** 라는 개발의 마인드를 배웠습니다. 
             
     - 프로젝트 얻은 것 : [이전 GITHUB 주소](https://github.com/ggomjae/careerdirection2)
 ---

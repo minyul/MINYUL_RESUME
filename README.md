@@ -34,10 +34,10 @@
     -   참여인원 : 1명
     -   설명
         -   갤럭시 whowho 서비스 관리자 통계 서비스를 구현. Aws S3 에 .gz으로 수집되어 있는 사용자의 정보를 읽어드리고 Spring Batch를 이용하여 통계를 내었다.
-        -   구현을 하면서 Spring Batch가 적합하지 않았다. 그 이유는 Chunk Size를 2이상으로 정할 수 없었고 하루의 통계기에 1로 고정시켜야했다. 즉, Chunk 지향 처리로 구현할 수 없었다.
-        -   결과적으로 고치기에는 공수작업이 컸으므로 통계를 자바단으로 해결하여 Chunk Size 1로 Reader , Multi Writer를 이용하여 수 만건의 통계정보를 Bulk Insert로 처리하였다.
-        -   이 프로젝트를 통해서 얻은 것은 Query DSL, Spring Batch, Quartz에 대한 낯선 기술들의 적용이었으며 DB 설계에 있었던 Index에 대해 많은 부분을 알수 있었다.
-        -   2주 동안의 2백만건의 자료가 쌓이므로 Index가 중요했으며 Cluster Index에 대해서도 알아보고 공부하며 적용시킬 수 있었다.  
+            구현을 하면서 Spring Batch가 적합하지 않았다. 그 이유는 Chunk Size를 2이상으로 정할 수 없었고 하루의 통계기에 1로 고정시켜야했다. 즉, Chunk 지향 처리로 구현할 수 없었다.
+            결과적으로 고치기에는 공수작업이 컸으므로 통계를 자바단으로 해결하여 Chunk Size 1로 Reader , Multi Writer를 이용하여 수 만건의 통계정보를 Bulk Insert로 처리하였다.
+            이 프로젝트를 통해서 얻은 것은 Query DSL, Spring Batch, Quartz에 대한 낯선 기술들의 적용이었으며 DB 설계에 있었던 Index에 대해 많은 부분을 알수 있었다.
+            2주 동안의 2백만건의 자료가 쌓이므로 Index가 중요했으며 Cluster Index에 대해서도 알아보고 공부하며 적용시킬 수 있었다.  
 
     - 프로젝트 얻은 것 :  1.[Cluster Index 성능 공부](https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL) , 2.[Between 과 >=, <= 성능 공부](https://velog.io/@minyul/Mysql-Query-Between-%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B0%A8%EC%9D%B4-%EB%B9%84%EA%B5%90-%EB%8D%94%EB%AF%B8%EB%8D%B0%EC%9D%B4%ED%84%B0-50%EB%A7%8C)
 

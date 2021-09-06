@@ -22,11 +22,12 @@
 ### ZUMInternet   :  2020.12.28 ~ ING
 ---
 -   ZUM 금융 CMS 프로젝트
-    -   기술 스택 : Vue 3 + Element Ui + Springboot + Jooq + Aws s3 + Mysql 
+    -   기술 스택 : Vue + Element Ui + Springboot + Jooq + Aws s3 + Mysql 
     -   기간 : **2021.06 ~ ING** 
     -   참여인원 : 1명
     -   설명
-        -   ..
+        -    ZUM 에서 금융 서비스를 시작하였고 CMS를 맡았다. 노출되는 금융 뉴스에 대한 비활성/활성화 기능, 금융 영상에 대한 비활성/활성화 기능, 필진 리스트 CRUD, 필진에 대한 콘텐츠 CRUD,
+             종목, 테마에 대한 CURD 상세페이지 그리고 이력페이지, 종목 토론에 대한 댓글 제재 및 제재 회원 관리 등등 을 구현하였습니다. 
 
 -   [WhoWho 서비스](https://www.whowhocorp.com/ko/) 통계 외주 프로젝트 
     -   기술 스택 : FreeMarker + springboot + Quartz +SpringBatch + Aws s3 + QueryDSL + Mysql 

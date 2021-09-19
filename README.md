@@ -17,11 +17,11 @@
 - 정보처리기사 
 
 
-## 인턴, 회사 경력 프로젝트
+## 경력 프로젝트
 
 ### ZUMInternet   :  2020.12.28 ~ ING
 ---
--   ZUM 금융 CMS 프로젝트
+-   [ZUM 금융](https://finance.zum.com/) CMS 프로젝트
     -   기술 스택 : Vue + Element Ui + Springboot + Jooq + Aws s3 + Mysql 
     -   기간 : **2021.06 ~ ING** 
     -   참여인원 : 1명

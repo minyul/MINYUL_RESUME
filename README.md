@@ -21,7 +21,16 @@
 
 ### ZUMInternet   :  2020.12.28 ~ ING
 ---
--   [ZUM 금융](https://finance.zum.com/) CMS 프로젝트
+
+-   [ZUM 금융](https://finance.zum.com/) Finance Back-End API
+    -   기술 스택 : - 
+    -   기간 : **2021.10 ~ ING** 
+    -   참여인원 : 3명
+    -   설명
+        -    ZUM 에서의 금융 서비스. - ING
+            
+
+-   [ZUM 금융](https://finance.zum.com/) Finance CMS 
     -   기술 스택 : Vue + Element Ui + Springboot + Jooq + Aws s3 + Mysql 
     -   기간 : **2021.06 ~ ING** 
     -   참여인원 : 1명

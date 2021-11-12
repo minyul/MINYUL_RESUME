@@ -23,7 +23,7 @@
 ---
 
 -   [ZUM 금융](https://finance.zum.com/) Finance Back-End API : 국내, 해외 구현 및 홈, 투자노트 서스테이닝
-    -   기술 스택 : - 
+    -   기술 스택 : - Springboot + Jooq + Redis + Spring Batch + Mysql
     -   기간 : **2021.10 ~ ING** 
     -   참여인원 : 3명
     -   설명

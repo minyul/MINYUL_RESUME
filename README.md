@@ -29,6 +29,8 @@
     -   설명
         -    ZUM 에서의 금융 서비스. - ING
             
+  - 프로젝트 얻은 것 :  1.[Update query 지연 사례]() , 2.[Etc... 여러 가지]()
+                        
 
 -   [ZUM 금융](https://finance.zum.com/) Finance CMS 
     -   기술 스택 : Vue + Element Ui + Springboot + Jooq + Aws s3 + Mysql 

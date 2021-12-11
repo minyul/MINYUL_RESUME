@@ -29,7 +29,7 @@
     -   설명
         -    ZUM 에서의 금융 서비스. - ING
             
-  - 프로젝트 얻은 것 :  1.[Update query 지연 사례]() , 2.[Etc... 여러 가지]()
+  - 프로젝트 얻은 것 :  1.[Update query 지연 사례](https://velog.io/@minyul/%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9E%A5%EC%95%A0%EA%B8%89-%EC%A7%80%EC%97%B0-%EC%8B%9C%EA%B0%84-update-query) , 2.[Etc... 여러 가지]()
                         
 
 -   [ZUM 금융](https://finance.zum.com/) Finance CMS 

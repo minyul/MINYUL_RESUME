@@ -29,7 +29,9 @@
     -   설명
         -    ZUM 에서의 금융 서비스. - ING
             
-  - 프로젝트 얻은 것 :  1.[Update query 지연 사례](https://velog.io/@minyul/%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9E%A5%EC%95%A0%EA%B8%89-%EC%A7%80%EC%97%B0-%EC%8B%9C%EA%B0%84-update-query) , 2.[Etc... 여러 가지]()
+  - 프로젝트 얻은 것   
+  - 1.[Update query 지연 사례](https://velog.io/@minyul/%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9E%A5%EC%95%A0%EA%B8%89-%EC%A7%80%EC%97%B0-%EC%8B%9C%EA%B0%84-update-query) 
+  - 2.[Etc... 여러 가지]()
                         
 
 -   [ZUM 금융](https://finance.zum.com/) Finance CMS 
@@ -51,7 +53,10 @@
             이 프로젝트를 통해서 얻은 것은 Query DSL, Spring Batch, Quartz에 대한 낯선 기술들의 적용이었으며 DB 설계에 있었던 Index에 대해 많은 부분을 알수 있었다.
             2주 동안의 2백만건의 자료가 쌓이므로 Index가 중요했으며 Cluster Index에 대해서도 알아보고 공부하며 적용시킬 수 있었다.  
 
-    - 프로젝트 얻은 것 :  1.[Cluster Index 성능 공부](https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL) , 2.[Between 과 >=, <= 성능 공부](https://velog.io/@minyul/Mysql-Query-Between-%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B0%A8%EC%9D%B4-%EB%B9%84%EA%B5%90-%EB%8D%94%EB%AF%B8%EB%8D%B0%EC%9D%B4%ED%84%B0-50%EB%A7%8C)
+    - 프로젝트 얻은 것   
+    - 1.[Cluster Index 성능 공부](https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL)  
+    - 2.[Between 과 >=, <= 성능 공부](https://velog.io/@minyul/Mysql-Query-Between-%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B0%A8%EC%9D%B4-%EB%B9%84%EA%B5%90-%EB%8D%94%EB%AF%B8%EB%8D%B0%EC%9D%B4%ED%84%B0-50%EB%A7%8C)
+    - 3.[spring cloud feign]() 
 
 
 
@@ -66,7 +71,8 @@
              또한, 암호화를 해주는 주체가 외부 클래스로 static 메소드로 암호화를 시켰다면, 좀 더 나아가 User에 암호화를 시키라는 메세지를 주며 주체적으로 
              User가 암호화를 하게끔 리팩토링한 것이 가장 기억이 남는다. <br>
         
-    - 프로젝트 얻은 것 : [트랜잭션 공부 주소](https://blog.naver.com/ggomjae/222226571659) 
+    - 프로젝트 얻은 것 
+    - [트랜잭션 공부 주소](https://blog.naver.com/ggomjae/222226571659) 
 ---
 ### Megazone - Pentacle   :  2020.07 ~ 2020.09
 ---
@@ -82,7 +88,8 @@
             코드의 질보다도 얼마나 빠르게 새로운 기술에 적응할 수 있는지를 보았던 것 같습니다. 간단한 CRUD 임에도 불구하고 새로운 기술의 적용이었기 때문에 굉장히 힘든 경험이었고
             이 경험을 통해 배운 것은 **1. 우선은 책을 피는 것이 아닌 적용부터해보자**  **2. 복잡하게 생각할 필요가 없다. 간단하게 생각해보자.** 라는 개발의 마인드를 배웠습니다. 
             
-    - 프로젝트 얻은 것 : [이전 GITHUB 주소](https://github.com/ggomjae/careerdirection2)
+    - 프로젝트 얻은 것  
+    - [이전 GITHUB 주소](https://github.com/ggomjae/careerdirection2)
 ---
 
 ### 그 외
